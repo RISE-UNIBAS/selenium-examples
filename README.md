@@ -1,6 +1,8 @@
 # Selenium Examples
-*This is a RISE example script. It should work in itself. You can clone or download the repository. If you have additions to an example which you would like to share, you are welcome to create a Pull Request.*
 [![Python application](https://github.com/RISE-UNIBAS/selenium-examples/actions/workflows/python-app.yml/badge.svg)](https://github.com/RISE-UNIBAS/selenium-examples/actions/workflows/python-app.yml)
+
+*This is a RISE example script. It should work in itself. You can clone or download the repository. If you have additions to an example which you would like to share, you are welcome to create a Pull Request.*
+
 
 ## Contents
 Examples how to use selenium for web scraping. There are currently two examples:
