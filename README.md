@@ -7,7 +7,7 @@ Examples how to use selenium for web scraping. There are currently two examples:
 - e-manuscripta.ch (Simple search and download of preview images)
 - NZZ Newspaper archive (Example with login and Mouse simulation, needs NZZ-Login)
 
-## Using this examples
+## Using the examples
 
 - Install the requirements from requirements.txt:
 
